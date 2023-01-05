@@ -1,1 +1,1 @@
-# Housing-price-prediction
+# AtliQ-Mart-Supply-Chain-AnalysisHousing-price-prediction
