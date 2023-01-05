@@ -22,3 +22,26 @@ Create the metrics according to the metrics list. Create a dashboard according t
 ## Data Model
 
 ![ss model](https://user-images.githubusercontent.com/119123916/210844365-f7f4a7fd-edeb-48f0-a8c7-7998c0c8d0f0.jpg)
+
+## Dashboard
+
+![Atliq ss](https://user-images.githubusercontent.com/119123916/210845231-c8ca675b-045e-48c4-b9e2-8ec18fb5a5a3.jpg)
+
+![Atliq ss 2](https://user-images.githubusercontent.com/119123916/210845277-dafbe173-5303-4ea9-bddf-a383b65304d6.jpg)
+
+![Atliq ss 3](https://user-images.githubusercontent.com/119123916/210845305-9d29d6e2-c357-4647-9be1-8cc6582d0fbd.jpg)
+
+## Some Major Insights
+
+We can see that Surat is doing great as compared to the other cities in terms of OTIF (On Time & In Full) order Deliveries and Vadodara is not doing well as compared to the other cities in terms of OTIF (On Time & In Full) order deliveries and Vadodara has the highest undelivered orders as well.
+
+In all city AtliQ Mart has average 29.54% OTIF Orders. OT%, IF% & OTIF% are way below their target value.
+
+Amul Milk have highest Qty Order in all cities and Amul Ghee has Lowest Qty Order. By the product category, Dairy products have highest Order value.
+
+The Order Qty and delivered Qty is differ by 4.60 lakhs, so average volume fill rate achieved 96.59%.
+
+The most profitable customer is Vijay Store, because Vijay Store has placed the highest order among all customers.
+
+'Acclaimed Stores' and 'CoolBlue' Stores have highest difference with overall Matrix and their Target Value which lead to business loss. So, these two Customer need attentions to increase OTIF%.
+
